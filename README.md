@@ -5,4 +5,4 @@ The file crreation date will be added to the filename together with some separat
 ex. before : Sketch template.png  
 ex. after  : 2024-07-15-Sketch-template.png  
 
-The Date structure and the separator can be customised on the Shortcuts app  
+The Date structure and the separator can be customised in the Shortcuts app  
